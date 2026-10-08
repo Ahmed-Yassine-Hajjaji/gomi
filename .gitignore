@@ -1,0 +1,18 @@
+# Compiled executables and output directories
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Go coverage output
+*.out
+
+# IDEs and OS-specific files
+.idea/
+.vscode/
+.DS_Store
